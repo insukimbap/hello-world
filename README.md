@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+Hello World!
+
+Here is an example of a commit 
